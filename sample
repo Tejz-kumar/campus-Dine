@@ -1,0 +1,556 @@
+
+  "loc":[
+    {
+        "state":"Andhra Pradesh",
+        "lat":"15.912900" ,
+        "long":"79.739990"
+    },
+    {
+       "state":"Arunachal Pradesh",
+       "lat":"28.217999" ,
+       "long":"94.727753"
+    },
+    {
+        "state":"Assam",
+        "lat":"26.200603" ,
+        "long":"92.937576"
+    },
+    {
+        "state":"Bihar",
+        "lat":"25.096073" ,
+        "long":"85.313118"
+    },
+    {
+        "state":"Chattisgarh",
+        "lat":"21.278658" ,
+        "long":"81.866142"
+    },
+    {
+        "state":"Goa",
+        "lat":"15.299326" ,
+        "long":"74.123993"
+    },
+    {
+        "state":"Gujarat",
+        "lat":"22.258652" ,
+        "long":"71.192383"
+    },
+    {
+        "state":"Haryana",
+        "lat":"29.058777" ,
+        "long":"76.085602"
+    },
+    {
+        "state":"Himachal Pradesh",
+        "lat":"31.104830" ,
+        "long":"77.173393"
+    },
+    {
+        "state":"Jharkhand",
+        "lat":"23.610182" ,
+        "long":"85.279938"
+    },
+    {
+        "state":"Karnataka",
+        "lat":"15.317277" ,
+        "long":"75.713890"
+    },
+    {
+        "state":"Kerala",
+        "lat":"10.850516" ,
+        "long":"76.271080"
+    },
+    {
+        "state":"Madhya Pradesh",
+        "lat":"22.973423" ,
+        "long":"78.656891"
+    },
+    {
+        "state":"Maharashtra",
+        "lat":"19.751480" ,
+        "long":"75.713890"
+    },
+    {
+        "state":"Manipur",
+        "lat":"24.663717" ,
+        "long":"93.906265"
+    },
+    {
+        "state":"Meghalaya",
+        "lat":"25.572491" ,
+        "long":"91.310760"
+    },
+    {
+        "state":"Mizoram",
+        "lat":"23.164543" ,
+        "long":"92.937576"
+    },
+    {
+        "state":"Nagaland",
+        "lat":"26.117500" ,
+        "long":"94.288300"
+    },
+    {
+        "state":"Orissa",
+        "lat":"20.188650" ,
+        "long":"84.440849"
+    },
+    {
+        "state":"Punjab",
+        "lat":"31.147129",
+        "long":"75.341217"
+    },
+    {
+        "state":"Rajasthan",
+        "lat":"27.023804",
+        "long":"74.217934"
+    },
+    {
+        "state":"Sikkim",
+        "lat":"27.532972",
+        "long":"88.512215"
+    },
+    {
+        "state":"Tamil Nadu",
+        "lat":"11.127123",
+        "long":"78.656891"
+    },
+    {
+        "state":"Telangana",
+        "lat":"18.112436",
+        "long":"79.019302"
+    },
+    {
+        "state":"Tripura",
+        "lat":"23.940847",
+        "long":"91.988152"
+    },
+    {
+        "state":"Uttar Pradesh",
+        "lat":"26.846708",
+        "long":"80.946159"
+    },
+    {
+        "state":"Uttarakhand",
+        "lat":"29.379910",
+        "long":"79.477386"
+    },
+    {
+        "state":"West Bengal",
+        "lat":"22.986757",
+        "long":"87.854973"
+    }
+],
+  "state": [
+    {
+      "id": "1",
+      "name": "Andaman & Nicobar",
+      "capital": "Port Blair",
+      "about": "The Andaman and Nicobar Islands located in the east of the Indian mainland geographically, float in splendid isolation in the Bay of Bengal. Once a hill range extending from Myanmar to Indonesia, these picturesque undulating islands, islets numbering around 572, are covered with dense rain-fed, damp and evergreen forests and endless varieties of exotic flora and fauna. Most of these islands (about 550) are in the Andaman Group, 28 of which are inhabited. The smaller Nicobars, comprise some 22 main islands (10 inhabited). The Andaman and Nicobars are separated by the Ten Degree Channel which is 150 Kms. wide.",
+      "climate": "The islands have a tropical climate. The South-west Monsoon sets in Andaman Nicobar islands towards the end of May and the North-east Monsoon in November. There is no fury of hot summer, no chilling winter, no water clogging or traffic jams. For those who want to enjoy boating, swimming, snorkeling, sightseeing all 12 months is season. North Indians find relief from burning heat and chilling winter if they visit the island from May/June/July and in December/January. Season for nature lovers is May to December when forest is lush green and waterfalls are at their prime. Divers can enjoy the best during December to April and bird watchers during winter times.",
+      "history": "The Andaman & Nicobar Islands have been inhabited for several thousand years, at the very least. The earlier archaeological evidence yet documented goes back some 2,200 years; however, the indications from genetic, cultural and linguistic isolation studies point to habitation going back 30,000 – 60,000 years, well into the Middle Palaeolithic. In the Andaman Islands, the various Andamanese people maintained their separated existence through the vast majority of this time, diversifying into distinct linguistic, cultural and territorial groups.",
+      "time": "Andaman has a moderate temperature all through the year within the range of 23°C to 31°C. It has a tropical climate. There are no severe climate conditions except for tropical storms and rains in late summers and monsoons.Summers (March to May) are warm but pleasant with sea breeze and have humidity level about 80%. It is suitable for all kinds of tourist activities.",
+      "food": "The cuisine Of Andaman is like the island itself-tropical, exotic and refreshing. The sea that is all around has a defining effect on the island's culture, livelihood and cuisine. There is little here, in which you will not find traces of the sea. The food here, hence, is dominated by seafood preparations and you don't want to miss the fish delicacies here. Other than seafood too, the staple diet is essentially non-vegetarian.However, as the island is becoming an increasingly popular tourist spot, the resorts and other eating places will give you options of Indian, Chinese and a few more cuisines.Also, the fruits here are popular and refreshing. You can find Mangoes, Bananas, Pineapples, Guava and more. One can also sip in the truly refreshing and tropical coconut water here.",
+      "img": [
+        "https://bit.ly/35d0J79",
+        "https://images.thrillophilia.com/image/upload/s--QOn_Mi_R--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/021/355/original/1538650912_shutterstock_1093195946.jpg.jpg?1538650912",
+        "https://www.keyshotels.com/blog/wp-content/uploads/2017/08/port-blair-sea-fish.jpg",
+        "https://dynamic.tourtravelworld.com/package-images/photo-big/dir_17/486726/202664.jpg",
+        "https://bit.ly/2XhHw19",
+        "https://bit.ly/2qTdWTu"
+      ],
+      "products": [
+        {
+          "name": "Pearls",
+          "description": "A gift for your special someone or close friends? What can be better than some shining pearls straight from the Bay of Bengal! They are the best kind of go-to items you can buy in coastal areas. While they are plenty of jewelry stores and local artisans claiming to sell authentic and good quality pearl items like ornaments, home decor, purses, accessories, and more, make sure you always do a quality check before you proceed to purchase them. The Andaman Islands have a huge variety of these gorgeous riches from the sea.",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Pearls.jpg",
+          "category": "Jewellery"
+        },
+        {
+          "name": "Spices",
+          "description": "You can buy superior quality of spices and herbs including the likes of cardamom, cloves, cinnamon, vanilla, betel, and black pepper that is grown and nurtured in abundance in the Andaman islands. These aromatic spices are some of the best things to buy in Andaman and Nicobar for your own home and for gifting to others. You’ll find various spice gardens and plantations in Andaman, and you can visit any of them to find the authentic flavors of this part of India.",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Spices.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Fishbone Articles",
+          "description": "Though it sounds weird, fishbone items are quite a rage now and make great articles for home decor and gifting. For starters, fishbone dolls make awesome souvenirs and gifting items. Usually made from the bones of the fish that is either dead or has been eaten, these splendidly unique items will surely look fabulous in the showcase and keep the viewer what they’re made of! Crafted by the skilled artisans of Andaman, these are essentially a best-out-of-the-waste craft items that will make some of the best things to purchase in Andaman and should not be missed out",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Fishbone-Articles.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Timber Crafts",
+          "description": "Wooden items tend to be beautiful and always end up catching attention. The finesse of the wooden goods in Andaman and Nicobar is so eye-catching that you won’t be able to resist the temptation to buy loads of articles from the stores and markets here. From home decor items, toys, accessories, ornaments, to kitchen apparatus, you won’t have a dearth of timber-based things to buy in Andaman and Nicobar islands",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Timber-Crafts.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Shells",
+          "description": "While collecting shells from the beaches of Andaman is a strict no no, it doesn’t mean you cannot bring back home these beautiful pieces of the ocean. Instead of going through the trouble of collecting them from the beaches, you can simply buy them from various stores and handicraft centers that sell them. You can either buy them in the form of lampshades, ashtrays, vases, ornaments, accessories, bags, wall hangings, buttons, key-chains, or as packets of colorful and raw shells that you can convert into something beautiful on your own later. Don’t forget to keep the receipt safe, as you’ll be required to show that at the airport during security checks",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Shells.jpg",
+          "category": "Jewellery"
+        },
+        {
+          "name": "Jute Items",
+          "description": "Jute handicrafts are available in abundance in Andaman and make for some of the most famous things to buy in Andaman. It’s among the most important and flourishing industries in Andaman and Nicobar that have started to gain all the more importance nowadays since various local sellers and big marketplaces are shifting from plastic bags to jute and cloth bags in order to help save the environment. You can select from a wide range of jute goods like bags, footwear, hats, jewelry items, clothes, and more. You can either buy jute from the local markets or the big emporiums here.",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Jute-Items.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Coconut Handicrafts",
+          "description": "Who doesn’t love some refreshing coconut water and the tender coconut pulp? But what if we tell you that even the hard shell can be used for making something good and doesn’t have to be thrown away? That’s right. You’ll come across various shops and stores in Andaman selling beautiful bowls, showpieces, vases, wind chimes, home decor items, toys, animal figurines, bags, and lampshades made out of coconut shells cut into various shapes and sizes. And they’ll be so pretty and eye-catching that you won’t be able to say no to buying them!",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Coconut-Handicrafts.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Nicobari Mats",
+          "description": "The tribals of Nicobar islands are known to be skilled in weaving beautiful mats and hangings made out of various natural and locally grown items. Though you can’t really visit the Nicobar Islands as per a ban imposed by the Indian government long ago safety purposes, you can buy these unique articles from select markets and emporiums in Andaman. These mats and tapestries are made by the tribes of Nicobar and they are representative of the vivid culture of these people, indigenous in every way. They are some of the quirkiest things to buy in Nicobar.",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Nicobari-Mats.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Sarongs & Hats",
+          "description": "Sarongs as well as hats are a necessity in Andaman, as you need the latter for your trip to the beach and the former will protect you against the harsh tropical sun of this place. The best part – there’s no need to get it from your home destination, as various colourful, quirky, and reasonably priced varieties of these are available for purchase almost everywhere in Andaman. You can find comfortable sarongs made out of simple cotton and/or georgette fabric that makes it wavy and trendy. You can find hats of various shapes, sizes, and colors here made out of material like jute.",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Sarongs-And-Hats.jpg",
+          "category": "Clothing & Accessories"
+        },
+        {
+          "name": "Cane Goods",
+          "description": "Don’t forget to buy authentic cane and bamboo products in Andaman that make up a crucial part of the local markets of Andaman. You can find them in plenty of forms like trendy hats, bags, pitchers, vases, mugs, wall hangings, keychains, photo frames, flutes, and much more. You will be able to find pretty items made from cane and bamboo at almost every gift shop and local market in Andaman and will make for great gifting items, souvenirs, and home decor items.",
+          "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Cane-Goods.jpeg",
+          "category": "Home-Decor"
+        }
+      ],
+      "tourist": [
+        {
+          "name": "NEIL ISLAND",
+          "info": "Neil Island is one of India’s Andaman Islands, in the Bay of Bengal. Bharatpur Beach has coral reefs teeming with tropical fish. Laxmanpur Beach is known for its sunset views. Howrah Bridge is a natural rock formation accessible at low tide. Near the island’s wharf is Neil Kendra village, with a curving, sandy bay dotted with boats. Off the southeast coast, the tiny Sir Hugh Rose Island is a sanctuary for turtles.",
+          "images": "https://uploads-ssl.webflow.com/5b56319971ac8c7475a9d877/5c4f5622a29a8f65c7f25f3e_IMG_7728%20Neil%20Island%20(21).jpg",
+          "location": "https://www.google.co.in/maps/place/Neill+Island,+Andaman+and+Nicobar+Islands+744104/data=!4m2!3m1!1s0x3088d9a13824c715:0xddd01ec98b4eb529?sa=X&ved=2ahUKEwjTjPqquvPlAhU56nMBHbmRBCAQ8gEwJXoECBAQBA"
+        },
+        {
+          "name": "CELLULAR JAIL,PORT BLAIR",
+          "info": "It has been an important historical part of Port Blair. Notable freedom fighters such as Veer Savarkar, Yogendra Shukla, Batukeshwar Dutt, and Babarao Savarkar were some of the inmates here. Don’t miss the light and sound show(Monday, Wednesday and Friday) when you visit Cellular jail. ",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/3616_20190213160612jpg",
+          "location": "https://www.google.co.in/maps/place/Cellular+Jail+National+Monument/@11.6738247,92.7479768,15z/data=!4m2!3m1!1s0x0:0x616a8c6623fdba3f?sa=X&ved=2ahUKEwihqtPEuvPlAhU4IbcAHThdBsAQ_BIwJnoECA4QCA"
+        },
+        {
+          "name": "CORBYN'S COVE,PORT BLAIR",
+          "info": "Surrounded by lush green palms, this happens to be one of the busier beaches in the Andamans. It’s located right outside of Port Blair about 8 km. The drive there itself is a scenic treat to the eyes.",
+          "images": "https://live.staticflickr.com/982/40047849690_7a78e1f816_b.jpg",
+          "location": "https://www.google.co.in/maps/place/Corbyn+Cove+Beach/@11.6449942,92.7458387,17z/data=!3m1!4b1!4m5!3m4!1s0x308894fccfdb049d:0x60d5e3776ddced65!8m2!3d11.6449942!4d92.7480274"
+        },
+        {
+          "name": "SAMUDRIKA NAVAL MARINE MUSEUM,PORT BLAIR",
+          "info": "This museum is a perfect blend of historical and modern Andaman. A massive blue whale, in its skeletal form, of course, greets you as you enter the museum. There is also an aquarium with fish of all shapes and sizes, from a parrotfish to the rare and venomous species of stonefish and corals.",
+          "images": "https://andamantripadvisor.in/files/social/social_b18e537c1984e883f43807737a639be4.jpg",
+          "location": "https://www.google.co.in/maps/place/Samudrika+Marine+Museum/@11.6718057,92.7263692,15z/data=!4m2!3m1!1s0x0:0xd7352994a1c32fb8?sa=X&ved=2ahUKEwi64_yEu_PlAhWMILcAHYtnBf0Q_BIwC3oECBAQCA"
+        },
+        {
+          "name": "HAVELOCK ISLAND(SWARAJ DWEEP)",
+          "info": "Havelock Island is part of Ritchie’s Archipelago, in India’s Andaman Islands. It’s known for its dive sites and beaches, like Elephant Beach, with its coral reefs. Crescent-shaped Radhanagar Beach is a popular spot for watching the sunset. On the island’s east side, rocky sections mark long, tree-lined Vijaynagar Beach.",
+          "images": "https://www.tripsavvy.com/thmb/SF7NoKaUPvXKxBkDbmPrC-GSddU=/2121x1414/filters:fill(auto,1)/GettyImages-508601155-592e840f5f9b5859500d0724.jpg",
+          "location": "https://www.google.co.in/maps/place/Swaraj+Dweep/@11.9656084,92.9194242,12z/data=!3m1!4b1!4m5!3m4!1s0x3088d3d85e0fe039:0x25c8aaaa513ef4bf!8m2!3d11.9760503!4d92.9875565"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "about": "Deriving its name from five full-bodied rivers–Sutlej, Beas, Ravi, Jhelum, and Chenab–which flow through its vast plains, Punjab is representative of abundant things. Located on the north-western edge of India, it is one of the smaller albeit prosperous states of the nation, and home to a lively, hospitable and dynamic people. Widely acknowledged as the cradle of civilization, it is a land of ethnic and religious diversity, having borne and shaped a number of religious movements that include Sikhism, Buddhism and Sufism. The Punjabi language, too, finds its origin in the Indo-European linguistic family that includes Persian and Latin.",
+      "climate": "The Summer in Punjab actually commences from mid April but the temperature starts rising from February onwards. Rainfall ranges from 250mm to 1000mm. Agriculture in the state highly depends on the rains. The winter season in Punjab is mostly experienced in the month of January, when the temperature falls to 5°C in the night and hovers around 12°C in the day. In the post winter transitional season, hail-storms and brief showers occur which cause damage to the crops. The wind becomes dry by the end of March. The Punjab climate has been a significant factor in shaping the economy of the state.",
+      "history": "The history of Punjab goes back thousands of years. Undivided Punjab has been the cradle of the Indus Valley Civilization, the remains of which can be seen at the Ropar archaeological site and its dedicated museum. This fertile ancient land finds mention even in Mahabharata and Ramayana. Infact it is believed that the Ramayana was written here by Valmiki ji. Places like Rupnagar, Kiratpur, Dholbaha, Rohira and Ghuram...all in Punjab; have unearthed artifacts that date back centuries. In Sanghol are 107 statues of the Kushan period evoking memories of a flourishing Buddhist monastery. This monastery was visited by Hiuen Tsang in the 7th century.",
+      "time": "The best time to visit Punjab is in the spring, from February to April, and in the autumn, from September to November.",
+      "food": "Punjab is synonymous to food and incomplete without its mouthwatering delicacies. Rich in colour, ingredients, spices and the most elaborate and grand cooking styles, Punjabi food derives several elements of its cuisine from Pakistan, the then undivided Punjab.The national cuisine borrows some of its most popular and lip-smacking items from Punjab's menu from Paratha, Tandoori Chicken, Naan, Pakodas to delicacies of Paneer. The food here represents a particular festivity, vibrancy and cultural richness in every day, a big part of which revolves around having good and rich food. There is also an almost perfect balance between the vegetarian and non-vegetarian choices, the options being equally irresistible for both. Punjabi cuisine is nearly identified with generous use of 'Ghee' or butter to give the food a rich flavour. Also onion, ginger, garlic and strong spice leave strong and distinct flavours in the menu here. Butter Chicken, Tandoori Chicken, Shahi Paneer, Chole Bhature, Makki di roti, Sarson da Saag, Dal fry, Amritsari fish, Aloo gobhi, Rajma Chawal, Punjabi Kadhi, Lassi are the dishes that define the food here, and the list is almost infinite. Gajar ka Halwa, Jalebi, Kulfi, Rabri, Gulab Jamun, Barfi, Motichoor Laddo are also equally tempting traditional sweets in the area.",
+      "img": [
+        "https://bit.ly/2XjaMVx",
+        "https://bit.ly/356rXMx",
+        "https://bit.ly/33RDGhU",
+        "https://bit.ly/33TedVo",
+        "https://bit.ly/2QiHPrf",
+        "https://bit.ly/2plyIe9"
+      ],
+      "products": [
+        {
+          "name": "Jutties",
+          "description": "Punjabi jutties is the name given to the typical footwear of Punjab. They are unusual in bearing a grand display of patterns and designs. There is such beautiful embroidery displayed on the jutties that you can’t help being impressed. Lots of hard work goes into making of these jutties, as they stand for the elegance and glory of Punjab. A wide range of fancy materials, like beads, pearls, colored threads, small mirrors and seashells, are used for making these jutties. Punjabi jutties are comfortable to wear and also render a royal look to the wearer.",
+          "image": "https://medias.fashionnetwork.com/image/upload/v1/medias/39c04f8b153f62ec5928d6eb221a0f4a2142309.jpg",
+          "category": "Clothing & Accessories"
+        },
+        {
+          "name": "Phulkaris",
+          "description": "Phulkari is a form of craft in which artistic embroidery embellishes a shawl, saree, dupatta (head scarf) or the entire dress. The phulkari that covers the entire dress, making the base material invisible, is called bagh (a garden of flowers). Bagh is generally used for special occasions, like marriages and festivals. A special kind of thread is used for phulkari, which is called pat. The designs used are varied, like animal, vegetable, sun, moon, scenes of human life, natural beauty and the list continues. In fact, anything that one can think about, other than religious connotations, are represented in phulkari. Some varieties of Phulkari and Bagh are Chope, Vari-da-bagh, Ghunghat bagh, Bawan Bagh, Darshan Dwar, Suber, Champa, Surjamukhi, & Satrang.",
+          "image": "http://punjabicart.com/sites/default/files/product/product-1494-4453.jpg",
+          "category": "Clothing & Accessories"
+        },
+        {
+          "name": "Parandis",
+          "description": "Parandis are the attractive hangings that are worn in the hair. They are widely used by the Punjabi women, especially those living in the rural areas. They usually plait their long hair and decorate the same with parandi, worn at the end of the plait. These parandis are woven out of attractive silk threads, clustered together artistically. They are available in a variety of designs and patterns.",
+          "image": "https://www.ekdumdesi.com/wp-content/uploads/2017/11/22.jpg",
+          "category": "Clothing & Accessories"
+        },
+        {
+          "name": "Shawls",
+          "description": "Punjabi shawls are world famous, for their intricate designs, coziness and reasonable price. There are different varieties of shawls available in Punjab, like angora, jamavar, embroidered pashmina, beaded pashmina, cashmillon shawls, kulu shawls and jacquard shawls. Ludhiana, Jalandhar and Amritsar are the main centers producing these shawls.",
+          "image": "https://www.jennysargeant.com/upload/images/shopprod/10100/french-cashmere-shawl-circa-1850_10100_catalogue_list_size3.jpg",
+          "category": "Clothing & Accessories"
+        },
+        {
+          "name": "Durries",
+          "description": "Punjabi durries are flat woven rugs, which are either used as bedcovers or as carpets. Generally for large gatherings, whether political, religious or others, durries are spread on the floor, for sitting purposes. These durries are very popular, owing to their stunning traditional designs, woven skillfully with all the minute details. They are quite economical and at the same time, add enormously to the richness of a house's interiors. Though they are widely available in all parts of Punjab, Amritsar and Chandigarh are the main centers for the production of durries.",
+          "image": "https://www.rugsville.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/u/rugsville-trellis-durries-blue-ivory-13699-5x8-rug-13699-58-02.93.jpg",
+          "category": "Home-Decor"
+        }
+      ],
+      "tourist": [
+        {
+          "name": "GOLDEN TEMPLE",
+          "info": "The Golden Temple, also known as Harmandir Sahib or Darbār Sahib, is a Gurdwara located in the city of Amritsar, Punjab, India. It is the holiest Gurdwara and the most important pilgrimage site of Sikhism.The temple is built around a man-made pool (sarovar) that was completed by Guru Ram Das in 1577.Guru Arjan – the fifth Guru of Sikhism, requested Sai Mian Mir – a Muslim Pir of Lahore to lay its foundation stone in 1589.In 1604, Guru Arjan placed a copy of the Adi Granth in Harmandir Sahib, calling the site Ath Sath Tirath (lit. shrine of 68 pilgrimages).The temple was repeatedly rebuilt by the Sikhs after it became a target of persecution and was destroyed several times by the Muslim armies from Afghanistan and the Mughal Empire.The army led by Ahmad Shah Abdali, for example, demolished it in 1757 and again in 1762, then filled the pool with garbage and blood of cows.Maharaja Ranjit Singh after founding the Sikh Empire, rebuilt it in marble and copper in 1809, overlaid the sanctum with gold foil in 1830. This has led to the name the Golden Temple.",
+          "images": "https://iptb.b-cdn.net/wp-content/uploads/2018/07/Golden-Temple-Punjab-1.jpg",
+          "location": "https://www.google.co.in/maps/place/Harmandir+Sahib/@31.6199803,74.8764849,15z/data=!4m5!3m4!1s0x0:0x604384897626248e!8m2!3d31.6199803!4d74.8764849"
+        },
+        {
+          "name": "WAGAH BORDER",
+          "info": "Located at a distance of 22 km from Lahore and 28 km from Amritsar, Wagah Border marks the boundaries between Indian and Pakistani borders. It runs along the Grand Trunk Road between Amritsar in Punjab, India, and Punjab in Lahore, Pakistan. People from all over the country visit this place to witness the Beating Retreat Ceremony that is held every day before sunset. This ceremony includes the closing of the international gates and lowering the flags of both countries. It is a spectacle to be witnessed and is an occasion where the heart of every Indian is filled with pride and enthusiasm. The flag ceremony has been conducted by the Indian Border Security Force and Pakistan Rangers since 1959.Every evening, just before the sunset, the soldiers from the Indian and Pakistan military meet at this border post to engage in a 30-minute display of military camaraderie and showmanship. Officially, the purpose of the ceremony is to formally close the border for the night and lower the national flag. However, it is an entertainment ceremony and a  display of national pride for the thousands of people who come here every day. During the build-up to the ceremony, the crowd engages in chanting the Indian national anthem, rounds of applause and Bollywood-style dancing on Hindi songs.",
+          "images": "https://m.economictimes.com/thumb/msid-68217133,width-1200,height-900,resizemode-4,imgsize-703119/daily-retreat-ceremony-along-attari-wagah-border-cancelled-bsf.jpg",
+          "location": "https://www.google.co.in/maps/place/Wagah/@31.604757,74.574136,15z/data=!4m2!3m1!1s0x0:0x325315a52b19a1a9?sa=X&ved=2ahUKEwiupo-auvPlAhVL6XMBHYYYC8UQ_BIwJHoECA4QCA"
+        },
+        {
+          "name": "JALLIANWALA BAGH",
+          "info": "Jallianwala Bagh is a historic garden and ‘memorial of national importance’ in Amritsar, India, preserved in the memory of those wounded and killed in the Jallianwala Bagh Massacre that occurred on the site on the festival of Vaisakhi, 13 April 1919.It houses a museum, gallery and a number of memorial structures.The 7-acre (28,000 m2) garden site of the massacre is located in the vicinity of the Golden Temple complex, the holiest shrine of Sikhism and is managed by the Jallianwala Bagh National Memorial Trust, which was established as per the 'Jallianwala Bagh National Memorial Act, 1951'.",
+          "images": "https://m.telegraphindia.com/unsafe/620x350/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1688144/16X9/image93c380cd-0486-4cc0-90e0-865235d0ac34.jpg",
+          "location": "https://www.google.co.in/maps/place/Jallianwala+Bagh/@31.0529259,74.7523128,8z/data=!4m5!3m4!1s0x0:0xcb013976169cb75b!8m2!3d31.6206437!4d74.8801088"
+        },
+        {
+          "name": "BHAKRA NANGAL DAM",
+          "info": "Bhakra Dam is a concrete gravity dam on the Sutlej River in Bilaspur, Himachal Pradesh in northern India. The dam forms the Gobind Sagar reservoir.The dam, located at a gorge near the (now submerged) upstream Bhakra village in Bilaspur district of Himachal Pradesh of height 226 m. The length of the dam (measured from the road above it) is 518.25 m and the width is 9.1 m. Its reservoir known as 'Gobind Sagar' stores up to 9.34 billion cubic metres of water. The 90 km long reservoir created by the Bhakra Dam is spread over an area of 168.35 km2. In terms of quantity of water, it is the third largest reservoir in India, the first being Indira Sagar dam in Madhya Pradesh with capacity of 12.22 billion cu m and second Nagarjunasagar Dam.",
+          "images": "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201810/dam647_081117121907_1-x404.jpg?9FIZpe39SqXGiX7EIroLsVdcLWjDaUeV",
+          "location": "https://www.google.co.in/maps/place/Bhakhra+Dam/@31.4111964,76.4334066,15z/data=!4m5!3m4!1s0x0:0x7cb91e54289880ac!8m2!3d31.4111964!4d76.4334066"
+        },
+        {
+          "name": "SUKHNA LAKE",
+          "info": "Sukhna Lake in Chandigarh, India, is a reservoir at the foothills (Shivalik hills) of the Himalayas. This 3 km² rainfed lake was created in 1958 by damming the Sukhna Choe, a seasonal stream coming down from the Shivalik Hills. Originally the seasonal flow entered the lake directly causing heavy siltation. To check the inflow of silt, 25.42 km² of land was acquired in the catchment area and put under vegetation. In 1974, the Choe was diverted and made to bypass the lake completely, the lake being fed by three siltation pots, minimising the entry of silt into the lake itself.",
+          "images": "https://www.trawell.in/admin/images/upload/472763834Chandigarh_Sukhna_Lake_Main.jpg",
+          "location": "https://www.google.co.in/maps/place/Sukhna+Lake/@30.742074,76.8039478,14z/data=!3m1!4b1!4m5!3m4!1s0x390fed34138d9147:0x8a7a0db7c410d5a2!8m2!3d30.7421379!4d76.8187557"
+        },
+        {
+          "name": "SHAHPUR KANDI FORT ",
+          "info": "The Shahpur Kandi Fort, named after Shah Jahan, nestles on the banks of the Ravi River in the picturesque foothills of the Himalayas. Located on the outer periphery of Pathankot, it was built in the 16th century, and stands surrounded by outstanding natural beauty. A part of the fort functions as a rest house today.Shahpur Kandi fort is located 7Kms from Pathankot and presently it has been converted into a beautiful rest house. It is named after Shah Jahan and was built by Bhao Singh in 16th Century. It is majestically located on the banks of river Ravi. There are a few small heritage monuments like tombs and a mosque.",
+          "images": "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/Nurpur-Fort.jpg",
+          "location": "https://www.google.co.in/maps/place/Shahpurkandi+Fort/@32.3876397,75.6833134,15z/data=!4m2!3m1!1s0x0:0xba3db5cd0bf52e84?sa=X&ved=2ahUKEwjcsKHxufPlAhWq8HMBHYWrCaMQ_BIwE3oECAsQCA"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "about": "Recognized as the \"Land of Kings\" and having sheer variety of experiences to offer, Rajasthan is the largest state of India located on the northwestern side and is one of India's most popular tourist destinations.\nSteeped in tales of chivalry and romance, also famous for striking desert landscape, massive forts, mesmerizing lakes and fabulous palaces, Rajasthan represents the quintessential India. Also, the crafts and folk arts originated here are world famous.With the legendary cities of Jaipur, Udaipur, Jaisalmer, and Jodhpur, built by the Rajput warriors, and the artisan communities and indigenous tribal, Rajasthan is a unique combination of royal and tribal India. Rajputs ruled the Land of Royalty for a long time and till today they are regarded in very high esteem.",
+      "climate": "Summers in Rajasthan last from April to June and are particularly harsh with temperatures rising up to 48°C during the day. That being said, if you do plan to visit Rajasthan in the summer, head to places like Mount Abu, Kumbhalgarh or Ranakpur. The weather here is pleasant and the views offered are breath-taking. For other cities, the weather is optimal in the early evenings for roaming around outside in the early mornings and late evenings, and it is advisable to stay indoors otherwise.Monsoon is a far more pleasant experience, the temperatures tend to drop across the state and the rain showers transform the arid landscape of Rajasthan. July to September is a particularly good time to visit if you wish to avoid the crowds you'd usually find during peak tourist season. Bundi, the lake city of Udaipur and the Keoladeo National Park are picturesque and are a must visit if you plan to travel to Rajasthan during the Monsoon.",
+      "history": "The state of Rajasthan in India has a history dating back thousands of years. It was the site of the Indus Valley Civilization. The early medieval period saw the rise of the Mughal Empire. The Mughals granted high positions to Rajput rulers who allied with them. However, some Rajput kingdoms did not accept Mughal suzerainty and were constantly at war with them. The Mughal rule effectively ended in the 18th century, when the Maratha Empire conquered much of the subcontinent.\n\nMaratha rule was soon replaced by British rule in India. The British also made allies out of local rulers, who were allowed to rule their princely states. This period was marked by famines and economic exploitation. However, the British period also saw the growth of railways, telegraph and modern industry in the region. After Indian Independence in 1947, the various princely states of Rajasthan were integrated into India.",
+      "time": "The temperatures continue to drop once the monsoon has passed, and come October winter sets in that lasts till March. During December and January, there can be a severe variation in temperatures during the day and the night. In fact, temperatures are known to drop as low as 0°C and below. This is the best time to visit Rajasthan as the desert sun is not as intense and the days are pleasant. Most of the festivals held in winter are planned as tourist attractions, with visitors coming in from different parts of the world.",
+      "food": "Rajasthanis love their food which can be evidenced in the time and energy they put into their preparations. The cuisine of Rajasthan is primarily vegetarian and offers a fabulous variety of mouthwatering dishes. The food here is such that it is suitable for the weather, availability of water, and other environmental factors of the area. Rajasthan is much of what its culture is, and the culture here derives a lot of its colour, festivity, significance and of course, spice, often literally from the diverse and exquisite cuisine here. The delicacies of the state are indeed some of the richest, unique and most loved preparations of India. Names such as Dal Bati Churma, Moong Dal ka Halwa, Ghevar, Rabdi and numerous more are popular all across, especially in North India, with their popularity spreading beyond the confines of the state, Your trip might be incomplete if you don't try the scrumptious dishes that the land has to offer, especially the Rajasthani thali. ",
+      "img": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Thar_Khuri.jpg",
+        "https://ihplb.b-cdn.net/wp-content/uploads/2011/02/Forts.jpg",
+        "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/09/Gadisar-Lake-in-Rajasthan..jpg",
+        "https://mk0egoveletsonla87wv.kinstacdn.com/wp-content/uploads/2018/07/Rajatshan-tourism-1.jpg",
+        "https://cdn1.tripoto.com/media/filter/tst/img/1682588/Image/1568655470_things_to_do_in_udaipur_rajasthan.jpg",
+        "https://static.toiimg.com/thumb/68427211/3.jpg?width=748&height=499"
+      ],
+      "products": [
+        {
+          "name": "Jewellery",
+          "description": "Renowned for its jewellery industry, Rajasthan is one of the world's largest centres for hand-cutting gems. It is also known for its spectacular variety of gold and silver jewellery. Every region in Rajasthan has its unique style and there's something to cater to everyone's tastes. Jaipur in particular, is famous for the Kundan and Meenakari styles of jewellery making, while Pratapgarh's unique style, which involves gold work on glass, is referred to as 'thewa'. So whether you're looking for rustic jewellery or something more regal, gold and silver or even precious stones, Rajasthan is truly a gem of a place for jewellery shopping.",
+          "image": "https://www.zerokaata.com/zerokaata-studio/wp-content/uploads/2018/06/rj-bangadi.jpg",
+          "category": "Jewellery"
+        },
+        {
+          "name": "Rajasthani Miniature Paintings",
+          "description": "Originally brought to Rajasthan by the Mughals, Rajasthani artists mastered the art of miniature painting and made it their own. The paintings themselves are inspired by the royal and romantic life of the Mughals. There are several styles of Rajasthani miniature paintings to choose from such as the Mewar, Bundi, Kota, Marwar, Bikaner, Jaipur and Kishangarh styles. The painters paint on a variety of materials such as silk, ivory, cotton and paper and a lot of intricate detailing is done to make these works of art pop with life and colour. Beautiful, unique and a great part of the history and culture of Rajasthan, Rajasthani miniature paintings are a must-buy for any visitor to Rajasthan.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nih%C3%A2l_Chand_001.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Stone Carvings",
+          "description": "From time immemorial, Rajasthan has been known for its sheer variety of hard rock found in the region. Blessed with an abundant bounty of building material, Rajasthani architects have gone on to construct some amazing structures including forts, temples and palaces which still stand strong today. When it came to construction, no stone was spared. From white marble to pink Dholpur stonr to green Kota stone, white and gray soapstone - everything was utilised to construct elegant statues, idols, figurines, carved panels and elaborate 'jharokas' for gardens and pavilions. The art of carving idols, figurines and utensils out of different types of stone is still in practice in Jaipur, Kota, Barmer, Ajmer and Dungarpur, and these places are worth a visit if you'd like to buy yourself a souvenir.",
+          "image": "https://i.pinimg.com/originals/f0/de/91/f0de91518d96d1f76a70664aeb0f95bf.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Terracotta",
+          "description": "An age-old craft in Rajasthan, terracotta earthenware is made by mixing together sawdust, fine mud and clay before moulding it. Every village and community has its own potters who make pots for everyday use along with other vessels such as hookahs, chillums, piggy banks, pickle jars, etc. so you can purchase these with ease anywhere in the state.But if you're looking for something a little more unique, visit Alwar for its paper-thin (kagzi) pottery, Bikaner for its painted pottery, Jaisalmer for its stone wares, Molela for wall plaques depicting the images of historic and religious figures, and Pokaran for tiny clay bells that sound just like their metal counterparts.",
+          "image": "https://rukminim1.flixcart.com/image/1664/1664/j70sccw0-1/showpiece-figurine/8/9/z/stawdg-sarvsiddhi-original-imaexdyruyfxf6ed.jpeg?q=90",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Blue Pottery",
+          "description": "Another art form that was introduced to Rajasthan by the Mughals, blue pottery came to Jaipur from Persia and Afghanistan. This style of pottery is made from quartz and not clay. Materials that are used include quartz, raw glaze, sodium sulphate, and multani mitti (fuller's earth). The beautiful hues of blue and turquoise are obtained through the use of copper oxide and cobalt oxide which give it a distinctive look. Suitable for everyday use, the biggest advantage of blue pottery is that it does not develop cracks unlike regular earthen pots. Blue pottery is usually designed with Mughal era arabesque patterns, as well as animal and bird motifs. There are a number of products you can purchase including plates, flower vases, soap dishes, surahis (small pitchers), trays, coasters, fruit bowls, door knobs and glazed tiles with hand painted floral designs. The craft is mainly practiced in Jaipur and to a lesser extent in Sanganer, Mahalan, and Neota as well.",
+          "image": "https://www.ohmyrajasthan.com/uploads/6/1521891357Blue-Pottery-handicraftglobal.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Wooden Articles",
+          "description": "Most of the landscape of Rajasthan is dry and arid desert, but there are a few pockets of lush jungle around Jaipur, Banswara, Kota and Udaipur which provide quality wood for craftsmen to create wooden articles. The furniture in particular is of special interest to those looking for antiques. Besides furniture, you'll also find a number of articles including toys, snuff boxes, chests, animal figurines and other interesting memorabilia.",
+          "image": "https://adventure.com/wp-content/uploads/2018/05/Rajasthani-block-printing-Bargru-block-printing-community-Photo-credit-Lorna-Parkes-2.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Phads And Pichwais",
+          "description": "The ancient art of scroll painting known as Phad survives to this day in Rajasthan. A typical Phad is a long, rectangular piece of cloth (between 15 to 30 feet in length) with paintings illustrating the life and heroic exploits of the two popular folk heroes, Pabuji and Devnarayan. Phads are painted by the Joshis of Shahpura, near Bhilwara, based on subjects like Bhagwat Purana and other popular folk stories.",
+          "image": "https://cdn2.allevents.in/thumbs/thumb59f6f85803a5f.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Metal Crafts",
+          "description": "Once a land of kings and warriors, metal in Rajasthan was used to craft weapons. These days however, metal figurines, pillboxes, photo frames and vases are the staple of Rajasthani metal crafts. Vibrant colours and complicated patterns are a unique characteristic of the metal crafts of Rajasthan and they make great decorative pieces for the home. Tourists interested in purchasing these articles can find them with ease as they are available all throughout the state.",
+          "image": "http://aitcofficial.org/wp-content/uploads/2017/10/Dokra.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Carpets And Durries",
+          "description": "Carpets and dhurries were first manufactured in Rajasthan when weavers from Afghanistan were invited to the royal Mughal ateliers in the 17th century AD. Since then, the craft has flourished and these simple rugs have now become one of the state's most famous weaving traditions. The dhurries are usually made by weavers in villages who use looms to create an interesting blend of patterns - mostly geometric, sometimes floral, in a dazzling combination of colours. Make a trip to Bikaner, Jaisalmer and Salawas in Jodhpur to purchase dhurries made of cotton yarn or camel hair. The areas around Tonk, a town that is about 95 km south of Jaipur are worth a visit to purchase namdahs, a type of felted woollen carpet.",
+          "image": "http://www.obeetee.com/img/Banner5.JPG",
+          "category": "Home-Decor"
+        }
+      ],
+      "tourist": [
+        {
+          "name": "Jaipur",
+          "info": "Planned by Vidyadhar Bhattacharya, Jaipur holds the distinction of being the first planned city of India. Renowned globally for its coloured gems, the capital city of Rajasthan combines the allure of its ancient history with all the advantages of a metropolis. The bustling modern city is one of the three corners of the golden triangle that includes Delhi, Agra and Jaipur.The story goes that in 1876, the Prince of Wales visited India on a tour. Since the colour pink was symbolic of hospitality, Maharaja Ram Singh of Jaipur painted the entire city pink. The pink that colours the city makes for a marvellous spectacle to behold. Jaipur rises up majestically against the backdrop of the forts Nahargarh, Jaigarh and Garh Ganesh Temple.",
+          "images": "https://images.thrillophilia.com/image/upload/s--QrPjqNho--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/046/475/original/1525775826_Jaipur_Main.jpg.jpg?1525775826",
+          "location": "https://www.google.co.in/maps/place/Jaipur,+Rajasthan/@26.8851417,75.6504723,11z/data=!3m1!4b1!4m5!3m4!1s0x396c4adf4c57e281:0xce1c63a0cf22e09!8m2!3d26.9124336!4d75.7872709"
+        },
+        {
+          "name": "Amber Palace",
+          "info": "Amber (pronounced Amer) is at a distance of about 11 kilometres from Jaipur. Now a UNESCO World Heritage Site, it was the bastion of the Kachwahas of Amber, until the capital was moved to the plains, to what is today Jaipur. The palace, located in craggy hills, is a beautiful melange of Hindu and Mughal styles. Raja Man Singh I began construction in 1592 and the palace, which was built as a strong, safe haven against attacking enemies, was completed by Mirja Raja Jai Singh.",
+          "images": "https://images.thrillophilia.com/image/upload/s--UGQa1Iny--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/110/813/original/1492513727_amber_fort_4.jpg.jpg?1492513727",
+          "location": "https://www.google.co.in/maps/place/Amber+Palace/@26.9854865,75.8513454,15z/data=!4m5!3m4!1s0x0:0x6221df6747147e2b!8m2!3d26.9854865!4d75.8513454"
+        },
+        {
+          "name": "Jantar Mantar",
+          "info": "Now a UNESCO World Heritage Site, Jantar Mantar in Jaipur is considered to be the largest of the five astronomical observatories built by Maharaja Sawai Jai Singh II, the founder of Jaipur. It contains sixteen geometric devices, designed to measure time, track celestial bodies and observe the orbits of the planets around the sun.",
+          "images": "https://cdn1.goibibo.com/t_tg_fs/jaipur-jantar-mantar-148133403933-orijgp.jpg",
+          "location": "https://www.google.co.in/maps/place/Amber+Palace/@26.9854865,75.8513454,15z/data=!4m2!3m1!1s0x0:0x6221df6747147e2b?sa=X&ved=2ahUKEwjnp4SljfjlAhVy7XMBHZF7CYwQ_BIwH3oECCkQCA"
+        },
+        {
+          "name": "Hawa Mahal",
+          "info": "Hawa Mahal, literally the Palace of Winds, was built in 1799 by the poet king Sawai Pratap Singh as a summer retreat for him and his family. It also served as a place where the ladies of the royal household could observe everyday life without being seen themselves. This unique five-storey structure is a blend of Hindu and Islamic architecture, and the exterior, with its small latticed windows (called jharokhas), resembles the crown of Lord Krishna. The windows also serve as an air-conditioner of sorts, blowing cool air throughout the palace, making it the perfect retreat during summers.",
+          "images": "https://static.toiimg.com/photo/50355399/.jpg",
+          "location": "https://www.google.co.in/maps/place/Hawa+Mahal/@26.9239363,75.8267438,15z/data=!4m2!3m1!1s0x0:0x860e5d531eccb20c?sa=X&ved=2ahUKEwiOlby_jfjlAhV_7XMBHZ8cAgoQ_BIwH3oECA0QCA"
+        },
+        {
+          "name": "Albert Hall Museum(Central  Museum)",
+          "info": "The building gets its name from The Victoria and Albert Museum in London, the inspiration for its design. The exquisitely built Albert Hall is housed in the centre of Ram Niwas Garden. Sir Swinton Jacob conceptualised and designed it using styles from the Indo-Sarcenic architecture and the Prince of Wales laid the foundation stone of the building in 1876.",
+          "images": "https://live.staticflickr.com/2845/12542763994_d8b41967a3_b.jpg",
+          "location": "https://www.google.co.in/maps/place/Albert+Hall+Museum/@26.9115755,75.8194875,15z/data=!4m2!3m1!1s0x0:0x5bb4333133c6968?sa=X&ved=2ahUKEwif6p7qjfjlAhXX6nMBHTSzBt8Q_BIwHXoECBQQCA"
+        },
+        {
+          "name": "Jal Mahal",
+          "info": "One of the most wonderful sights in Jaipur is the beautiful Jal Mahal or Lake Palace. The light, sand coloured stone walls and the deep blue of the water make for a wonderful contrast. The palace appears to float in the centre of Man Sagar Lake, where its magnificent exteriors can be enjoyed by tourists.",
+          "images": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jal_Mahal_in_Man_Sagar_Lake.jpg",
+          "location": "https://www.google.co.in/maps/place/Jal+Mahal/@30.7925977,76.9116041,15z/data=!4m5!3m4!1s0x0:0x8baca857b9f1b33d!8m2!3d30.7925977!4d76.9116041"
+        },
+        {
+          "name": "Chittorgarh Fort",
+          "info": "The Chittor Fort or Chittorgarh is one of the largest forts in India. It is a UNESCO World Heritage Site. The fort was the capital of Mewar and is located in the present-day town of Chittor. It sprawls over a hill 180 m in height spread over an area of 280 ha above the plains of the valley drained by the Berach River.",
+          "images": "https://www.chittorgarh.com/images/chittorgarh_fort.jpg",
+          "location": "https://www.google.co.in/maps/place/Chittorgarh+Fort/@24.8878991,74.6450926,15z/data=!4m5!3m4!1s0x0:0x4ef923088d726382!8m2!3d24.8878991!4d74.6450926"
+        },
+        {
+          "name": "The Ajmer Sharif Dargah",
+          "info": "This is a Sufi shrine which encloses the ‘maqbara’ (grave) of Garib Nawaz, the Sufi saint Khwaja Moinuddin Chisti. Built in the 13th century, the shrine is popular among people of all faiths who flock here to have their prayers answered. ",
+          "images": "https://resources.thomascook.in/images/holidays/sightSeeing/ajmerdargha.jpg",
+          "location": "https://www.google.co.in/maps/place/Khawaja+Gharib+Nawaz/@26.4561878,74.628106,15z/data=!4m5!3m4!1s0x0:0x17da9f02930d903b!8m2!3d26.4561878!4d74.628106"
+        },
+        {
+          "name": "Jaisalmer fort",
+          "info": "Jaisalmer Fort is situated in the city of Jaisalmer, in the Indian state of Rajasthan. It is believed to be one of the very few \"living forts\" in the world (such as Carcassonne, France), as nearly one fourth of the old city's population still resides within the fort.For the better part of its 800-year history, the fort was the city of Jaisalmer. The first settlements outside the fort walls, to accommodate the growing population of Jaisalmer, are said to have come up in the 17th century.",
+          "images": "http://www.rajasthantourplanner.com/blog/wp-content/uploads/2016/08/jaisalmer-fort-1024x654.jpg",
+          "location": "https://www.google.co.in/maps/place/Jaisalmer+fort/@26.9128394,70.9130454,15z/data=!4m2!3m1!1s0x0:0xc75a821a459f586?sa=X&ved=2ahUKEwjbrseGj_jlAhW773MBHaWHAgcQ_BIwJ3oECCQQCA"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram,",
+      "about": "Kerala - home to the languid backwaters, long coastlines, sprawling tea gardens, and colourful dance forms, is also famously known as 'God?s Own Country'. Located on the Malabar coast of Southern India, it is a tiny sliver of paradise that is also one of the best tropical tourist destinations one can look for. Whether you want to bask in the sun and sand of the palm tree-lined Kovalam beach or want to take a hike to Munnar hill station, or even if you're going to walk down the bustling streets of Kochi, Kerala has everything on offer to take your pick from!The land of literate and simple citizens, Kerala amuses you with its spectacular dance forms, music and handicrafts. Considered to be one among the ten paradises of the world, Kerala is known for long palm tree beaches, beautiful rivers, pious inland water bodies and a calm, green atmosphere.",
+      "climate": "The coastal state of Keralalying on the Southwestern tip of India has commonly been called the tropical paradise of India. Bounded by Arabian Sea at one side and the Western Ghats on the other, the beautiful land with stunning beauty has an equable and tropical climate offering a pleasing atmosphere throughout the entire year. This coastal state has hot and humid climate during April-May and pleasant, cold climate in December-January. Summer extends from the month of April to June when the temperature reaches to a maximum of 33 degrees centigrade. Summer is followed by South West Monsoon that starts pouring in the month of June and continues till September. With the arrival of winter there is certain drop in the temperature and you can feel a slight chill due to the cold wind. Winter in Kerala lasts from from November to January or February.",
+      "history": "According to the Tamil classic Purananuru, the Chera king Senkuttuvan conquered the lands between Kanyakumari and the Himalayas.[25] Lacking worthy enemies, he besieged the sea by throwing his spear into it.[25][26] According to the 17th century Malayalam work Keralolpathi, the lands of Kerala were recovered from the sea by the axe-wielding warrior sage Parasurama, the sixth avatar of Vishnu (hence, Kerala is also called Parasurama Kshetram 'The Land of Parasurama'[27]). Parasurama threw his axe across the sea, and the water receded as far as it reached. According to legend, this new area of land extended from Gokarna to Kanyakumari.[28] The land which rose from sea was filled with salt and unsuitable for habitation; so Parasurama invoked the Snake King Vasuki, who spat holy poison and converted the soil into fertile lush green land. Out of respect, Vasuki and all snakes were appointed as protectors and guardians of the land.",
+      "time": "The Best time to visit Kerala is Winter Season between September and March when the Kerala has comfortable climate and pleasant weather with less humidity in all the tourist places. People who are looking for ayurvedic treatments prefer Monsoon season from June to August",
+      "food": "Kerala cuisine is a combination of vegetables, meats and seafood flavoured with a variety of spices. One can notice the dominance of rice, coconut, seafood and variety of non-vegetarian dishes and the lavish use of spices like Pepper, Cardamom, Cloves, Ginger and chillies that add to the taste and flavour of Kerala's traditional food.With the Romans, Greeks, Dutch, Portuguese and many more invaders making their way to the ports of Kerela, it's no surprise that Kerala's food is so diverse and distinct from the rest of the country. There are differences seen in the taste and styles of north and south Kerala- the menu ranges from lip-smacking Mappila biryani, Sadya and brilliant non-vegetarian dishes, you are sure to find something new every day! Kerala is a paradise for seafood lovers; from an array of prawns, lobsters, rockfish and squid among the others, the place won't disappoint you. The Sadya is a substantial feast served on a banana leaf and consists of 24-28 dishes in a single meal. Onam Sadyas are something you should try if you're in Kerala. Other favourite dishes include Avial, Kozhikodan Halwa, Appam-stew combo, Kappa, Puttu-Meen curry and Paal Payasam. ",
+      "img": [
+        "https://dmgupcwbwy0wl.cloudfront.net/system/images/000/246/174/b6e6fbfe0a70425bfa209af67b1a1ac6/x1000gt/shutterstock_1154918653.jpg?1552906145",
+        "https://invest-india-revamp-static-files.s3.ap-south-1.amazonaws.com/s3fs-public/2018-07/Kerala_2.png",
+        "https://www.bookitforgetit.com/wp-content/uploads/2016/10/Kerala-is-a-state-in-the-southwest-region-of-India.jpg",
+        "https://img.veenaworld.com/group-tours/india/kerala/klhl-i/klhl-i-bnn-1.jpg",
+        "https://i2.wp.com/www.abtravelworld.com/wp-content/uploads/2019/04/Kerala-beach.jpg?fit=980%2C500&ssl=1",
+        "https://www.myjewishlearning.com/wp-content/uploads/2010/07/Kerala_Backwaters.jpeg"
+      ],
+      "products": [
+        {
+          "name": "Coffee",
+          "description": "It is no wonder that 10 million tonnes of coffee are consumed every year, such as the magic of this humble cup of beverage. If you too belong to the coffee-loving brigade, your Kerala shopping expedition can never really begin for you without getting your hands on an aromatic bag of locally grown Kaapi.  The delicious Malabar Monsoon Coffee available here is also a fantastic option to choose. Rich in flavour, aroma and colour as well, this coffee beans powder not only makes for a fantastic item to buy in Kerala not only for yourself but also as a souvenir or gift for your friends and family",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/South-Indian-Coffee-e1524192277128.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Aroma Oila",
+          "description": "Kerala is famous for its Ayurvedic treatments for various purposes from treating certain ailments to beauty procedures too. There are many places to visit in Kerala that are world famous for their Ayurvedic treatments, yoga and more. The massages are carried out through different therapies using various aroma oils, based on the concept of aromatherapy. Even most of the resorts and hotels in the state have spa centres offering rejuvenating massages. Therefore buying aroma oils has inadvertently become an important part of your Kerala Shopping experience. You will find top quality aroma oils here of different varieties, used for different purposes.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/oil-e1524192373817.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Spices",
+          "description": "The warm and humid climate of Kerala is perfect for the cultivation of a variety of rich spices like cardamom, star anise, black pepper, turmeric, cinnamon, clove etc. This makes it perfect for you to go shopping in Kerala for these lovely and aromatic spices as well. What makes it even cooler, is the fact that since the usually expensive spices are grown here, you can get them at really competitive prices.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Spices-e1524192420166.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Tea",
+          "description": "Just like coffee, tea also finds its fans almost everywhere in the world and Kerala has some superb offerings on that front too. The Nilgiri tea cultivated here is made from superb tea leaves which have a beautiful flavour. The delicate and smooth taste and colour of this tea are simply amazing. This makes this product an equally worthy item to buy when Shopping in Kerala. It is both a practical thing to invest in and also makes for a wonderful gift.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Tea-e1524192323272.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Cashew Nuts",
+          "description": "Just like spices, tea and coffee, cashew nuts too find their origination in the fertile land of God’s Own Country. Hence, if you want to stock up on your supply of nuts, it is a great way to do so while you are out for your Kerala shopping trip. You can get them at a fairly lower price here, without compromising on the quality.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/cashewsraw-e1524192462208.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Banana Chips",
+          "description": "Banana chips are another famous and must-buy items of the state, making them an unavoidable part of your Kerala Shopping spree. These yummy and light snacks made out of raw bananas is profusely available all over Kerala. Just make sure you taste them beforehand and bargain if purchasing in a bulk.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Banana-Chips-2-e1524192613182.jpg",
+          "category": "Grocery"
+        },
+        {
+          "name": "Wooden Caskets And Boat Models",
+          "description": "Known locally as Nettur Caskets and Chandan Vallam, these ornately crafted wooden chests can only be found shopping in Kerala. You can use these dainty boxes to store knick-knacks such as rings or earrings or simply place them in your drawing room to receive some admirations from guests. Same goes for boats or Urus, which are the lovely little models of the popular snake boats of Kerala, used in the boat racings.",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/81MaDwVCwnL._SL1500_.jpg",
+          "category": "Home-Decor"
+        },
+        {
+          "name": "Kathakali Masks",
+          "description": "Often represented through the expressive and vibrant masks and dance of Kathakali, the classical dance form is really the face of the state. This certainly calls for shopping in Kerala for this beautiful masks which you can hang in your home or stick one as a fridge magnet.",
+          "image": "https://lh3.googleusercontent.com/cLxTE0sa4lLI0saF3tOSVUM02sGbBfUhM00LWcoY0xz3RLxO3QcMvHuJpsHtm2F326iU4Kg_xQcu9_iI78q08Hd0ak8g-qUwUgWjxO09LSTe2c4BMiaw59WvbeYIb_ErkhISXY5UIJgYTFHuIFVHgBudA5lGDGVtWhvJNiM-k4EoSHS5zKtt3bnM050ZAwHXyzbbwnV8m5aacUDpSbC5mghpvvzY1fi1wdu7E0sOx0EAn-rbtrR0va4YS9FtURZklvoxQRT_4cdUyhv4RRY2Ygk4Aapz8eQo8WIrvzXxxohk6itJZWk3vvnmVvRbhz1xgNb_j25Vk2TfWDR9QvjLs62VeoVT1mAbVA8uaBWqa7rErGDPYur87OPOG6uWk_SQq5CIEgPsJKhzpGfdbFKLO-jUj92XAcvyYbuXynn9FqzUcqylbo3ajjf7vIe0OIlZjvbHYaVoXin3n7CuXQKO1Dto5scYfO_0dVBbo50tM_Iec9819X3VJjDNU0s4FPtufSiTqUikzBnIyRxGZZD1S9Zezq1S5EKjb4xhBmqtg4sMg6LTwGAJJAxBQktFiPLWORu6MjHPNMAuURW0-icb4EFFC41znR3FHIoor5AOV7gFniF3V5hs4sbpqoC1DXfW55xUtR661kO5f9KYCJbGTHeM95r96fQ9ziooAdULiKyuUD3Vfy3IVMx9memGuRtinG3ZbNnvhoM-aLc1KgY=w1299-h870-no",
+          "category": "Clothing & Accessories"
+        },
+        {
+          "name": "Jewellery",
+          "description": "Jewellery is another important must-do items in the list of things to do in Kerala. The intricate designs embellished with different precious and semi-precious gems or pearls is simply fascinating. To celebrate the womanhood in you or to gift someone you adore, you can buy these superb pieces of jewellery in gold, depicting the true Malayali style, and the artificial one too, which are as good as the real ones.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/jewellery-e1524192715888.jpg",
+          "category": "Jewellery"
+        },
+        {
+          "name": "Cocunut And Coir Items",
+          "description": " Kerala is well known for its abundance of coconuts. This makes it an ideal place to grab some coconut or coir based products such as rugs, wall hangings, pure coconut oil, mats, delicacies made of coconut and other cool stuff made from its husk.",
+          "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Crafts-e1524192661475.jpg",
+          "category": "Home-Decor"
+        }
+      ],
+      "tourist": [
+        {
+          "n
