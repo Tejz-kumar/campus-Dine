@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Canteen - Payment Success</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="payment-success.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <span class="logo-emoji">🍔</span> Campus Canteen
+            </a>
+            <div class="menu-toggle" id="mobile-menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="menu.html" class="nav-link">Menu</a></li>
+                <li><a href="login.html" class="nav-link">Login</a></li>
+                <li><a href="signup.html" class="nav-link">Sign Up</a></li>
+                <li>
+                    <a href="cart.html" class="cart-icon nav-link">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="shopping-cart">
+                            <circle cx="9" cy="21" r="1"></circle>
+                            <circle cx="20" cy="21" r="1"></circle>
+                            <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                        </svg>
+                        <span class="cart-count" id="cart-count">0</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Success Section -->
+    <section class="success-section">
+        <div class="container">
+            <div class="success-container">
+                <div class="success-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                    </svg>
+                </div>
+                <h1>Payment Successful!</h1>
+                <p class="success-message">Your order has been placed successfully.</p>
+                
+                <div class="order-info">
+                    <h3>Order Details</h3>
+                    <div class="order-details">
+                        <div class="detail-row">
+                            <span>Order ID:</span>
+                            <span id="order-id">CC12345</span>
+                        </div>
+                        <div class="detail-row">
+                            <span>Date:</span>
+                            <span id="order-date">May 10, 2023</span>
+                        </div>
+                        <div class="detail-row">
+                            <span>Total Amount:</span>
+                            <span id="order-amount">$24.99</span>
+                        </div>
+                        <div class="detail-row">
+                            <span>Delivery Address:</span>
+                            <span id="delivery-address">123 Campus Street, College Town</span>
+                        </div>
+                        <div class="detail-row">
+                            <span>Estimated Delivery:</span>
+                            <span id="estimated-delivery">30-45 minutes</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <p class="follow-up">We've sent a confirmation email with all the details of your order.</p>
+                
+                <div class="action-buttons">
+                    <a href="index.html" class="btn btn-outline">Go to Home</a>
+                    <a href="menu.html" class="btn btn-primary">Order Again</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <a href="index.html">
+                        <span class="logo-emoji">🍔</span> Campus Canteen
+                    </a>
+                    <p>Delicious food for busy students</p>
+                </div>
+                
+                <div class="footer-links">
+                    <div class="footer-section">
+                        <h4>Quick Links</h4>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="menu.html">Menu</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h4>Opening Hours</h4>
+                        <ul class="hours">
+                            <li>Monday - Friday: 8:00 AM - 8:00 PM</li>
+                            <li>Saturday: 9:00 AM - 7:00 PM</li>
+                            <li>Sunday: Closed</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h4>Contact Us</h4>
+                        <ul class="contact">
+                            <li>Email: info@campuscanteen.com</li>
+                            <li>Phone: (123) 456-7890</li>
+                            <li>Address: University Campus, Building 7</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2023 Campus Canteen. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast Notification -->
+    <div id="toast-container"></div>
+
+    <!-- Scripts -->
+    <script src="main.js"></script>
+    <script src="cart.js"></script>
+    <script src="payment-success.js"></script>
+</body>
+</html>
