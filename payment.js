@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
     // Check if user has items in cart
     const cart = JSON.parse(localStorage.getItem('cart')) || [];
